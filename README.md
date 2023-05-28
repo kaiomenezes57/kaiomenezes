@@ -5,7 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnCu_ohrXYS4M2XXRKZ6Jhg)
 
 
-Sou desenvolvedor com foco maior em games, atualmente trabalhando desenvolvedor Unity e com projetos pessoais no meu estúdio indie <strong>Blue Horizon Games<strong>!
+Sou desenvolvedor com foco maior em games, atualmente trabalhando como desenvolvedor Unity e com projetos pessoais no meu estúdio indie <strong>Blue Horizon Games<strong>!
 
 > A maioria dos repositórios são privados, me chame para informações detalhadas sobre eu e minha conta.
 
