@@ -20,3 +20,4 @@ Sou desenvolvedor com foco maior em games, atualmente trabalhando como desenvolv
           
 ## Informações sobre minha conta GitHub ⭐
 ![Status](https://github-readme-stats.vercel.app/api?username=kaiomenezes57&show_icons=false&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomenezes57&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
